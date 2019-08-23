@@ -13,7 +13,7 @@ function getInputs(inputId, listCount){
     }
     var items=[];
     inputNums.forEach(function(num){
-      items.push($("#item"+num+"-"+inputId).val().toUppercase());
+      items.push($("#item"+num+"-"+inputId).val().toUpperCase());
     });
     items.sort();
 
