@@ -7,6 +7,9 @@ function getInputs(inputId, listCount){
   $("#form-" + inputId).submit(function(event){
     event.preventDefault();
 
-    var
+    var inputNums = [];
+    for(var i=1; i<=listCount; i++){
+      
+    }
   })
 }
