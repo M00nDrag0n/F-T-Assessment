@@ -1,10 +1,46 @@
 body {
   font-family: 'Spectral';
   font-size: 21px;
+  text-align: center;
+  background-color: black;
+  color: #96eaff;
 }
 
 .btn {
   border-style: solid;
-  border-color: black;
+  color: blue;
+  border-color: #56008c;
   border-width: medium;
+}
+
+.form-group {
+  width: 500px;
+  margin-left: 340px;
+}
+
+.Reminder {
+  color: red;
+  background-color: black;
+  border-style: solid;
+  border-color: blue;
+}
+
+.img-dr img {
+  width: 380px;
+  height: 350px;
+}
+
+.img-vu img {
+  width: 380px;
+  height: 350px;
+}
+
+.img-ob-m img {
+  width: 380px;
+  height: 300px;
+}
+
+.img-ob-n-m img {
+  width: 380px;
+  height: 350px;
 }
