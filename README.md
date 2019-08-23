@@ -6,7 +6,7 @@
 
 ## Description
 
-_By selecting options and hitting the submit button, you can find out [Info]!_
+_By filling in each form and hitting the "Click To View List" button, you can see a list of the options that you wrote!_
 
 ## List of specs
 
@@ -16,23 +16,21 @@ _By selecting options and hitting the submit button, you can find out [Info]!_
 *_The program contains a link to epicenter.epicodus.com which opens in a new tab._
 
 
-
-
 ## Setup/Installation Requirements
 
-* _Instructions_
-* _More Instructions_
+* _Copy this link [ https://m00ndrag0n.github.io/F-T-Assessment/ ] and paste it into your browser. _
+* _Fill in small forms for fun!_
 
 
 _No additional servers are needed._
 
 ## Known Bugs
 
-_Known Bugs_
+_There are no known bugs in this program._
 
 ## Support and contact details
 
-_@example.com etc_
+_If you are experiencing issues, contact me at 123@example.com_
 
 ## Technologies Used
 
