@@ -1,6 +1,11 @@
 $(document).ready(function() {
   getInputs("dr", 3);
 
+  getInputs("vu", 3);
+
+  getInputs("ob-m", 3);
+
+  getInputs("ob-n-m", 3);
 });
 
 function getInputs(inputId, listCount){
