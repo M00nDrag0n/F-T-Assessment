@@ -1,4 +1,4 @@
 $(document).ready(function() {
-  getInputs( , );
+  getInputs("dr", 3);
 
 });
