@@ -1,0 +1,10 @@
+body {
+  font-family: 'Spectral';
+  font-size: 21px;
+}
+
+.btn {
+  border-style: solid;
+  border-color: black;
+  border-width: medium;
+}
