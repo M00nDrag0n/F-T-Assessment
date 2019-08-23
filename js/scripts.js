@@ -16,5 +16,9 @@ function getInputs(inputId, listCount){
       items.push($("#item"+num+"-"+inputId).val().toUppercase());
     });
     items.sort();
-  })
+
+    items.forEach(function(item){
+      $(".receipt-"+inputId).append("<li>"+item+"</li>");
+    });
+  });
 }
