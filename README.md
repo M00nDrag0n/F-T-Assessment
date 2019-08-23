@@ -13,6 +13,8 @@ _By selecting options and hitting the submit button, you can find out [Info]!_
 *_The program recognizes words which are inputted from the user._
 *_The program categorizes words vertically in alphabetical order and in list item form._
 *_The program outputs list items in all caps and allows you to click to automatically retype a list item._
+*_The program contains a link to epicenter.epicodus.com which opens in a new tab._
+
 
 
 

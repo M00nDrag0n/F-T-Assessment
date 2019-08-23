@@ -3,10 +3,12 @@ $(document).ready(function() {
 
   getInputs("vu", 3);
 
-  getInputs("ob-m", 3);
+  getInputs("ob-m", 5);
 
-  getInputs("ob-n-m", 3);
+  getInputs("ob-n-m", 5);
 });
+
+
 
 function getInputs(inputId, listCount){
   $("#form-" + inputId).submit(function(event){

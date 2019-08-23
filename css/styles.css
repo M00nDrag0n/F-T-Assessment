@@ -4,6 +4,7 @@ body {
   text-align: center;
   background-color: black;
   color: #96eaff;
+
 }
 
 .btn {
@@ -43,4 +44,22 @@ body {
 .img-ob-n-m img {
   width: 380px;
   height: 350px;
+}
+
+.white {
+  border-color: white;
+  border-style: solid;
+  border-width: medium;
+}
+
+a {
+  border-style: solid;
+  border-color: #96eaff;
+  padding: 20px;
+  float: top right;
+}
+
+h4 {
+  float: right;
+  color: white;
 }
